@@ -1,0 +1,17 @@
+{
+	"name": "subhadeepadf",
+	"properties": {
+		"globalParameters": {
+			"glob_param": {
+				"type": "string",
+				"value": "2021"
+			}
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d8095b3-edad-40ba-8aae-35f1f4860e66",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
